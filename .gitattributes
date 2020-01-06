@@ -1,0 +1,2 @@
+*.py linguist-language=C
+*.exe linguist-language=C
